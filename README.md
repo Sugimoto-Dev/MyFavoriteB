@@ -7,6 +7,7 @@ Bilibili macOS客户端
 
 - B站前一阵修改了一点点东西, 导致0.0.1版本已不可用. 0.0.2版本中已修复.
 - 侧边栏添加了新选项###追番###
+- 添加了搜索
 
 
 ## Preview
@@ -49,7 +50,7 @@ Bilibili macOS客户端
 
 ## TODO
 
-- [ ] 搜索
+- [x] 搜索
 - [ ] 关注的某个UP视频索引翻页, 目前只显示最近的100个
 - [ ] 等等等等..., 太多了就不说了
 
@@ -68,4 +69,8 @@ Bilibili macOS客户端
 - 王老简
 - API来源: [SocialSisterYi](https://github.com/SocialSisterYi)的项目[https://github.com/SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)
 
-Q群: 638040760
+
+
+一个简单的使用说明: https://www.bilibili.com/video/BV1qa4y1L7uS
+
+反馈专用Q群: 638040760
