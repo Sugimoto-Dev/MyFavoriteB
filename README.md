@@ -1,3 +1,18 @@
+## Bug fixed: 2020-11-17
+
+0.0.2版在我的机器上运行正常, 在其他人机器上似乎有无法自动配置IINA的问题, 现提供一个手动修复的方法.
+
+![](./thumbs/bug.jpg)
+
+打开IINA, 找到上图位置, 手动添加两个键值对
+
+key: `http-header-fields`, value: `user-agent:Safari/537.3`
+key: `http-header-fields`, value: `referer:https://www.bilibili.com/`
+
+添加后彻底退出或重启IINA, 然后即可正常播放视频.
+
+---
+
 Bilibili macOS客户端
 
 这是一个适合佛系B站用户使用的客户端, 没有弹幕, 没有评论, 用它你会感到很孤独.
