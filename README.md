@@ -57,7 +57,7 @@ Bilibili macOS客户端
 
 - 登录时, 如果你的IINA播放器本来就是打开状态, 请手动让IINA彻底退出.
 
-  
+
 
   Done.
 
@@ -82,10 +82,3 @@ Bilibili macOS客户端
 
 - 我自己
 - 王老简
-- API来源: [SocialSisterYi](https://github.com/SocialSisterYi)的项目[https://github.com/SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)
-
-
-
-一个简单的使用说明: https://www.bilibili.com/video/BV1qa4y1L7uS
-
-反馈专用Q群: 638040760
